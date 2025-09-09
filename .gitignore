@@ -8,3 +8,22 @@ wheels/
 
 # Virtual environments
 .venv
+.env
+
+# generate gitignore para python e vscode
+
+# Visual Studio Code settings
+.vscode/
+.history/
+
+# Environment variables file
+.env
+.env.local
+.env.*.local
+.envrc
+.venv/
+venv/
+ENV/
+env.bak/
+env/
+venv.bak/
